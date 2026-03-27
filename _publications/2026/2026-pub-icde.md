@@ -1,6 +1,6 @@
 ---
 title:          "PAT: Towards Transaction Routing with Page Affinity in Shared-Cache Databases"
-date:           2026
+date:           2026-01-05 00:01:00 +0800
 selected:       true
 pub:            "ICDE"
 pub_date:       "2026"
