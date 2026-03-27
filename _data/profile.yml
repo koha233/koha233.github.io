@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "Zhongqin Tan 谭忠勤"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Zhongqin Tan"
 
 positions:
 - name: PhD student
@@ -8,11 +8,11 @@ positions:
   logo: /assets/images/badges/neu.jpg  # Logo is optional
 
 
-email: "tanzq1@mail.neu.edu.cn"
+email: "tanzq1@mail.neu.edu.cn, tanzq.tzq@163.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: https://github.com/koha233
-twitter: your_twitter_id  # Do not include the '@' symbol
+# twitter: your_twitter_id  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.jpg
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -34,16 +34,20 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Northeastern University
+  logo: /assets/images/badges/neu.jpg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Computer Science and Engineering <br/>
     Ph.D. Student
   date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+- name: Northeastern University
+  logo: /assets/images/badges/neu.jpg
+  position: M.S. in Computer Science
+  date: Sep. 2021 - Jul. 2024
+- name: Northeastern University
+  logo: /assets/images/badges/neu.jpg
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
@@ -51,10 +55,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
