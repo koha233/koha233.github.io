@@ -9,10 +9,6 @@ abstract: >-
   In this paper, we present PAT, a shared-cache database system with page affinity-based routing, which routes transactions that access frequently co-accessed pages to the same compute node, reducing local cache misses and cache coherence overhead. Since SQL does not reveal which pages will be accessed before execution, PAT abstracts pages using key ranges to enable page affinity-based routing. This is based on the ordering property of widely used clustered indexes. Moreover, page updates may cause key ranges to become misaligned with pages, leading to significant cache coherence overhead. To address this issue, we introduce the route-aware page reorganization mechanism. Experiments show that PAT achieves 1.03X-14.36X higher throughput than state-of-the-art approaches under TPC-C and YCSB.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
 - Zhongqin Tan
 - Haoyuan Zhang
 - Yanfeng Zhang
