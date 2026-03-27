@@ -22,7 +22,7 @@ wechat_prompt: >-
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student in Computer Science at <a href="https://english.neu.edu.cn/" target="_blank">Northeastern University (China)</a>, supervised by Prof. Yanfeng Zhang.
+    I am a Ph.D. student in Computer Science at <a href="https://english.neu.edu.cn/" target="_blank">Northeastern University (China)</a>, supervised by Prof. <a href="https://neuzhangyf.github.io/" target="_blank">Yanfeng Zhang</a>.
   </p>
 
   <p>
