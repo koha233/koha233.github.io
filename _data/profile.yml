@@ -3,19 +3,19 @@ secondary_name: ""
 navbar_name: "Zhongqin Tan"
 
 positions:
-- name: PhD student
-- name: Northeastern University
-  logo: /assets/images/badges/neu.jpg  # Logo is optional
+- name: PhD student @ Northeastern University
+# - name: Northeastern University
+  # logo: /assets/images/badges/neu.jpg  # Logo is optional
 
 
 email: "tanzq1@mail.neu.edu.cn, tanzq.tzq@163.com"
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: https://github.com/koha233
+github: koha233
 # twitter: your_twitter_id  # Do not include the '@' symbol
-wechat_qrcode: /assets/images/etc/wechat.jpg
-wechat_prompt: >-
-  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
@@ -31,7 +31,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  A cute little tiger illustration used as a fun placeholder.
 
 education:
 - name: Northeastern University
